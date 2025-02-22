@@ -10,7 +10,7 @@
         \/       \/                     \/  
                     
 DISCORD :  https://discord.com/invite/qAE9FaPTwu                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+                         
 
 Command Verified : ✓  
 Website        : ssrr.tech  
@@ -324,7 +324,7 @@ module.exports = {
         \/       \/                     \/  
                     
 DISCORD :  https://discord.com/invite/qAE9FaPTwu                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+                         
 
 Command Verified : ✓  
 Website        : ssrr.tech  
