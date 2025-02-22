@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://All-in-one:6306@all-in-one.mslpx.mongodb.net/?retryWrites=true&w=majority&appName=All-in-one",
     "excessCommands": {
         "utility": true,
         "other": true,
