@@ -9,8 +9,8 @@
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+DISCORD :  https://discord.com/invite/qAE9FaPTwu                   
+                        
 
 Command Verified : ✓  
 Website        : ssrr.tech  
@@ -131,8 +131,8 @@ k}
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+DISCORD :  https://discord.com/invite/qAE9FaPTwu                   
+                        
 
 Command Verified : ✓  
 Website        : ssrr.tech  
