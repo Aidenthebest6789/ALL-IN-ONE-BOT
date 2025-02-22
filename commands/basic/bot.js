@@ -95,14 +95,14 @@ module.exports = {
       const adminPermissions = 8; 
       
      
-      const inviteURL = `https://discord.com/oauth2/authorize?client_id=${clientId}&permissions=${adminPermissions}&integration_type=0&scope=bot`;
+      const inviteURL = `https://discord.com/oauth2/authorize?client_id=1342661684476776499&permissions=8&integration_type=0&scope=bot`;
       
       const embed = new EmbedBuilder()
         .setColor('#0099ff')
         .setAuthor({ 
           name: lang.inviteTitle, 
           iconURL: cmdIcons.rippleIcon,
-          url: "https://discord.gg/xQF9f9yUEM" 
+          url: "https://discord.gg/qAE9FaPTwu" 
         })
         .setDescription(lang.inviteDescription.replace('{inviteURL}', inviteURL))
         .setTimestamp();
