@@ -168,8 +168,8 @@ module.exports = {
             const embed = new EmbedBuilder()
             .setDescription(`Application : **${name}**\n\n- Click the button below to fill out the application.\n- Make sure to provide accurate information.\n- Your responses will be reviewed by the moderators.\n\n- For any questions, please contact support.`)
     .setColor('Blue')
-    .setAuthor({ name: 'Welcome To Our Application System', iconURL: 'https://cdn.discordapp.com/emojis/1052751247582699621.gif' }) 
-    .setFooter({ text: 'Thank you for your interest!', iconURL: 'https://cdn.discordapp.com/emojis/798605720626003968.gif' }); 
+    .setAuthor({ name: 'Welcome To Our Application System', iconURL: 'https://cdn.discordapp.com/emojis/1342635485264216194.png' }) 
+    .setFooter({ text: 'Thank you for your interest!', iconURL: 'https://cdn.discordapp.com/emojis/1342634570662678629.png' }); 
 
         const button = new ActionRowBuilder().addComponents(
             new ButtonBuilder()
