@@ -9,7 +9,7 @@
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
+DISCORD :  https://discord.com/invite/qAE9FaPTwu                   
 YouTube : https://www.youtube.com/@GlaceYT                         
 
 Command Verified : ✓  
@@ -192,7 +192,7 @@ module.exports = {
                     .setAuthor({
                         name: page.author.name,
                         iconURL: BOT_ICON,
-                        url: "https://discord.gg/xQF9f9yUEM"
+                        url: "https://discord.gg/qAE9FaPTwu"
                     })
                     .setTimestamp();
 
@@ -303,7 +303,7 @@ module.exports = {
                 .setAuthor({
                     name: "Alert!",
                     iconURL: cmdIcons.dotIcon,
-                    url: "https://discord.gg/xQF9f9yUEM"
+                    url: "https://discord.gg/qAE9FaPTwu"
                 })
                 .setDescription('- This command can only be used through slash command!\n- Please use `/help`')
                 .setTimestamp();
@@ -323,7 +323,7 @@ module.exports = {
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
+DISCORD :  https://discord.com/invite/qAE9FaPTwu                   
 YouTube : https://www.youtube.com/@GlaceYT                         
 
 Command Verified : ✓  
