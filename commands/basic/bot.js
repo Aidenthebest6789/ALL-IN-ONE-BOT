@@ -65,9 +65,7 @@ module.exports = {
     }
     else if (subcommand === 'support') {
         const supportServerLink = lang.supportServerLink;
-        const githubLink = lang.githubLink;
-        const replitLink = lang.replitLink;
-        const youtubeLink = lang.youtubeLink;
+
 
         const embed = new EmbedBuilder()
             .setColor('#b300ff')
@@ -80,10 +78,7 @@ module.exports = {
                 ➡️ **${lang.supportDescriptionTitle}:**
                 - ${lang.discord} - ${supportServerLink}
                 
-                ➡️ **${lang.followUsOn}:**
-                - ${lang.github} - ${githubLink}
-                - ${lang.replit} - ${replitLink}
-                - ${lang.youtube} - ${youtubeLink}
+k}
             `)
             .setImage(lang.supportImageURL)
             .setTimestamp();
@@ -115,7 +110,7 @@ module.exports = {
         .setAuthor({ 
             name: "Alert!", 
             iconURL: cmdIcons.dotIcon,
-            url: "https://discord.gg/xQF9f9yUEM"
+            url: "https://discord.gg/qAE9FaPTwu"
         })
         .setDescription('- This command can only be used through slash command!\n- Please use `/bot`')
         .setTimestamp();
