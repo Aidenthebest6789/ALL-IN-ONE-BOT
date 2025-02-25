@@ -28,12 +28,12 @@
         "distube": true,
         "setups": true
     },
-     "lavalink": {
+ "lavalink": {
         "lavalink": {
             "identifier": "INZEWORLD.COM (DE)",
-            "password": "HexaBot",
-            "host": "104.167.222.158:6104",
-            "port": 6104,
+            "password": "saher.inzeworld.com",
+            "host": "lava.inzeworld.com",
+            "port": 3128,
             "secure": false
           }
     }, 
