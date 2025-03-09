@@ -90,7 +90,7 @@ k}
       const adminPermissions = 8; 
       
      
-      const inviteURL = `https://discord.com/oauth2/authorize?client_id=1342661684476776499&permissions=8&integration_type=0&scope=bot`;
+      const inviteURL = `https://discord.com/oauth2/authorize?client_id=1342661684476776499&permissions=1163268605144535&integration_type=0&scope=bot`;
       
       const embed = new EmbedBuilder()
         .setColor('#0099ff')
