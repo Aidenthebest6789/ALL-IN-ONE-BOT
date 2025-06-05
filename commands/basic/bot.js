@@ -10,7 +10,7 @@
         \/       \/                     \/  
                     
 DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+                         
 
 Command Verified : ✓  
 Website        : ssrr.tech  
