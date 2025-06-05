@@ -117,14 +117,13 @@ module.exports = {
 
                 
                 pages.push({
-                    title: '✨ ALL IN ONE BOT',
+                    title: '✨ ProAdvertising',
                     description: [
                         '### THE DISCORD OPERATING SYSTEM',
                         '',
                         '> The ultimate Discord bot for all your server needs',
                         '',
-                        '**BOT STATISTICS**',
-                        `\`🧠\` **Version:** 1.2.2`,
+                        '**BOT STATISTICS**',                       
                         `\`🛠️\` **Total Commands:** ${totalCount}`,
                         `\`⚙️\` **Commands Loaded:** ${totalCommandsLoaded}`,
                         `\`📌\` **Master Commands:** ${masterCount}`,
@@ -132,7 +131,7 @@ module.exports = {
                         `\`💻\` **Prefix Commands:** ${Object.values(config.excessCommands).some(v => v) ? '`Enabled`' : '`Disabled`'}`,
                         '',
                     ].join('\n'),
-                    author: { name: 'ALL IN ONE BOT • COMMAND CENTER' },
+                    author: { name: 'ProAdvertising • COMMAND CENTER' },
                     icon: '📚'
                 });
 
@@ -202,7 +201,7 @@ module.exports = {
                     .setAuthor({
                         name: page.author.name,
                         iconURL: BOT_ICON,
-                        url: "https://discord.gg/xQF9f9yUEM"
+                        url: "https://discord.gg/m7xCccpvMf"
                     })
                     .setImage(helpBanner)
                     .setFooter({ text: `${FOOTER_TEXT} • Page ${currentPage + 1}/${currentSet.length}` })
@@ -378,7 +377,7 @@ module.exports = {
                 .setAuthor({
                     name: "Command Error",
                     iconURL: cmdIcons.dotIcon,
-                    url: "https://discord.gg/xQF9f9yUEM"
+                    url: "https://discord.gg/m7xCccpvMf"
                 })
                 .setDescription('> ⚠️ This command can only be used as a slash command!\n> Please use `/help` instead.')
                 .setFooter({ text: 'All In One Bot • Error' })
