@@ -9,7 +9,7 @@
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
+DISCORD :  https://discord.gg/m7xCccpvMf                   
                          
 
 Command Verified : ✓  
@@ -102,7 +102,7 @@ module.exports = {
         .setAuthor({ 
           name: lang.inviteTitle, 
           iconURL: cmdIcons.rippleIcon,
-          url: "https://discord.gg/xQF9f9yUEM" 
+          url: "https://discord.gg/m7xCccpvMf" 
         })
         .setDescription(lang.inviteDescription.replace('{inviteURL}', inviteURL))
         .setTimestamp();
@@ -115,7 +115,7 @@ module.exports = {
         .setAuthor({ 
             name: "Alert!", 
             iconURL: cmdIcons.dotIcon,
-            url: "https://discord.gg/xQF9f9yUEM"
+            url: "https://discord.gg/m7xCccpvMf"
         })
         .setDescription('- This command can only be used through slash command!\n- Please use `/bot`')
         .setTimestamp();
@@ -136,8 +136,8 @@ module.exports = {
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+DISCORD :  https://discord.gg/m7xCccpvMf                   
+                         
 
 Command Verified : ✓  
 Website        : ssrr.tech  
