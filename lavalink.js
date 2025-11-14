@@ -4,9 +4,10 @@ module.exports = {
     lavalink: {
       name: "owbzgr1k",
       password: "G9ehOVbom7f",
-      host: "87.106.62.92",
-      port:  11642,
+      host: "23.80.88.110",
+      port:  10152,
       secure: false
     }
 };
+
 
