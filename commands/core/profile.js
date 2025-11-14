@@ -247,6 +247,7 @@ module.exports = {
     async execute(interaction) {
         // Add command logic here (add/view/edit/remove)
         // When using embeds, always use:
-        // .setFooter({ text: 'Your Footer', iconURL: 'https://share.creavite.co/69179254377d6e26798e08fb.gif' })
+        // .setFooter({ text: 'CentraBot', iconURL: 'https://share.creavite.co/69179254377d6e26798e08fb.gif' })
     }
 };
+
