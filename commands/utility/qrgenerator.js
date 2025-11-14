@@ -7,12 +7,6 @@
  ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚══════╝   ╚═╝      ╚═╝   
 
 -------------------------------------
-📡 Discord : https://discord.gg/xQF9f9yUEM
-🌐 Website : https://glaceyt.com
-🎥 YouTube : https://youtube.com/@GlaceYT
-✅ Verified | 🧩 Tested | ⚙️ Stable
--------------------------------------
-> © 2025 GlaceYT.com | All rights reserved.
 */
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { AttachmentBuilder, MessageFlags } = require('discord.js');
@@ -268,10 +262,4 @@ module.exports = {
  ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚══════╝   ╚═╝      ╚═╝   
 
 -------------------------------------
-📡 Discord : https://discord.gg/xQF9f9yUEM
-🌐 Website : https://glaceyt.com
-🎥 YouTube : https://youtube.com/@GlaceYT
-✅ Verified | 🧩 Tested | ⚙️ Stable
--------------------------------------
-> © 2025 GlaceYT.com | All rights reserved.
 */
